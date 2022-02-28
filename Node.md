@@ -71,39 +71,60 @@
 - Profilers
 
 11. Node.js Debugging
-    - Native debugging
-    - Inspectors and specialized tools
+
+- Native debugging
+- Inspectors and specialized tools
+
 12. Node.js Authorization
-    - JWT
-    - PassportJS
+
+- JWT
+- PassportJS
+
 13. Node.js Security
-    - Basic practices and approaches
+
+- Basic practices and approaches
+
 14. Node.js Testing
-    - Unit tests
-    - Contract tests
-    - Integration tests
-    - TDD/BDD
+
+- Unit tests
+- Contract tests
+- Integration tests
+- TDD/BDD
+
 15. Node.js Documentation
-    - JSDoc
-    - Third party documentation tools / services
+
+- JSDoc
+- Third party documentation tools / services
+
 16. Node.js ORM / ODM
 17. Node.js Frameworks
 18. Node.js Serverless
-    - Serverless code implementaiton
-    - Serverless solution (based on AWS Lambda, Azure functions, Google CloudFunctions, etc.)
+
+- Serverless code implementaiton
+- Serverless solution (based on AWS Lambda, Azure functions, Google CloudFunctions, etc.)
+
 19. Node.js Loggers
-    - Types of logges. Logging levels.
-    - Logging tools and libraries (Logstash, Winston etc.)
+
+- Types of logges. Logging levels.
+- Logging tools and libraries (Logstash, Winston etc.)
+
 20. Node.js Queue
-    - Basic knowledge of tools and solutions (RabbitMQ / AtiveMQ / Kafka / SQS / SNS)
+
+- Basic knowledge of tools and solutions (RabbitMQ / AtiveMQ / Kafka / SQS / SNS)
+
 21. Node.js Containerization
-    - Containerization practices and approaches
-    - Tools and services (Docker, Docker Compose, etc.)
+
+- Containerization practices and approaches
+- Tools and services (Docker, Docker Compose, etc.)
+
 22. Node.js Architecture / Patterns
-    - Application structure architecture principles
-    - Basic GoF Creational, Structural, Behavioral patterns knowledge
-    - Microservices basic principles
+
+- Application structure architecture principles
+- Basic GoF Creational, Structural, Behavioral patterns knowledge
+- Microservices basic principles
+
 23. Node.js Deployment
-    - NPM Scripts
-    - CI/CD
-    - SSH/Command line tools
+
+- NPM Scripts
+- CI/CD
+- SSH/Command line tools
