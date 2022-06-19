@@ -240,3 +240,127 @@ Regular Expressions Advanced
         Grouping
         Greedy and lazy search
         Replacements
+        
+        
+# JavaScript Development Tools
+
+Basic knowledge of the tools needed for setting up of development environment. At least knowledge of:
+- npm or yarn installation, working with cli
+- knowledge of package.json and dependencies
+- working with repository and Git basics.
+- Basic knowledge of eslint
+
+Working with packages, publishing, versioning
+- Intermediate knowledge of browser tools for project needs (Chrome DevTools)
+- Experience working with eslint, prettier.
+
+# Software Design
+- architectural patterns(Layered, Client-Server, MVC) 
+- design patterns 
+- design principles (KISS, DRY, YAGNI, Clean Code principles, SOLID, high cohesion & low coupling) 
+- Knowledge of main programming paradigms (OOP, FP,RP)
+- Knowledge of cross-cutting concerns (logging, Error Handling, Secure coding)
+
+- Design Principles, 
+- design patterns 
+- Programming Paradigms,
+- Technical Documentation 
+- Cross-Cutting Concerns
+
+# performance optimizations:
+
+JavaScript Profiling and Debugging
+Network Optimizations
+JavaScript Performance Optimization Techniques
+Memory Leaks (detection tools and prevention)
+JavaScript Obfuscation and Minification
+Framework optimization techniques
+Compression (types, approaches)
+Caching (native techniques, 3rd party services, CDN)
+Clusterization and application scaling
+Load balancing
+Reverse proxy solutions 
+
+# Node.js Security
+
+Understand how to filter and validate user input data properly
+Know what is SQL Injections and understand how to prevent them
+Understand how to store secrets and hide confidential data from the public access
+
+# Common web-security knowledge
+
+At least basic knowledge of different security issues and possible protections
+XSS
+CORS
+SQL injections
+Auth (JWT, OAuth, Basic) 
+
+# Web Communication Protocols
+
+HTTP vs HTTPS vs HTTP/2
+WS vs Polling
+RESTful API
+Nice to have:
+
+RPC (JSON RPC)
+GraphQL
+Socket
+
+# Software Engineering Processes
+
+Knowledge of most popular Agile frameworks (Scrum, Kanban)roles/events, understanding of their pros and cons.
+
+Knowledge and ability to use different estimation techniques (by analogy, by experts, planning poker, decomposition, bucket, t-shirt, story points) and estimation notions (relative and absolute units), how to estimate unknown tasks.
+
+Understading purpose of DoR and DoD.
+
+# Node.js Service Development
+
+Creating RESTful HTTP services (starter setup, framework, configuration, models, data access ...)
+Intermediate knowledge of: 
+
+API documentation (swagger)
+Service deployment, containerization approaches (docker, docker-compose)
+Stateful vs stateless services (pros/cons)
+Diagnostics and tracing approaches for services (debugging, tracing, profiling, heap and memory analysis, step debugging)
+GraphQL vs REST (pros/cons)
+Authentication / authorization (JWT, Passport strategies, ...)
+Basic understanding of:
+
+Async services communication/Message Brokers (RabbitMQ, Kafka, SQS, SNS ...)
+Caching approaches and solutions
+Application (performance) scalability approaches and techniques
+Monolith vs SOA (pros/cons) 
+
+# Software Engineering Knowledge & Experience
+basic Algos & Data Structures
+Network Concepts
+DB concepts 
+types of DB (SQL, NoSQL) 
+OS
+Cryptography
+Software Licenses
+Virtualization
+
+Node.js Database Experience
+CAP theorem
+Caching solutions (Reddis, Memcached, etc.) 
+SQL vs NoSQL databases (basic comparison, pros/cons of each)
+
+# Docker
+# Cloud Fundamentals
+
+# Node.js Infrastructure and Clouds
+
+Node containerization
+Node deployment
+note architecture/patterns
+node API/gatway
+Node deployment
+Node serverles
+node vizualization/monitoring
+node search engines
+node real time application
+node queues
+
+Transaction models (ACID vs BASE)
