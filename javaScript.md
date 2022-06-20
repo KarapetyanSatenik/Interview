@@ -199,50 +199,50 @@
   - Understand plain async code
 
 
-Object Property Descriptor        
-        Know how to use property descriptors
-        Be able to explain enumerable, configurable, writable property attributes
-        Be able to create property getter/setter
+20. Object Property Descriptor        
+        - Know how to use property descriptors
+        - Be able to explain enumerable, configurable, writable property attributes
+        - Be able to create property getter/setter
 
-Functions Recursion        
-        Know recursion concept and able to use it
-        Able to explain recursion risks, benefits and drawbacks
+21. Functions Recursion        
+        - Know recursion concept and able to use it
+        - Able to explain recursion risks, benefits and drawbacks
 
-Advanced Functional Patterns        
-        Chaining
-        Know chaining pattern and cases where it will be useful
-        Currying
-        Know how to bind arguments to function
-        Memorization
-        Know memorization optimization
-        Understand problem with non-primitive arguments memorization
+22. Advanced Functional Patterns        
+        - Chaining
+        - Know chaining pattern and cases where it will be useful
+        - Currying
+        - Know how to bind arguments to function
+        - Memorization
+        - Know memorization optimization
+        - Understand problem with non-primitive arguments memorization
 
-Prototypal Inheritance Advanced        
-        Temporary constructor
-        Know prototypal inheritance mechanism
-        Know prototypal inheritance temporary constructor pattern
-        Be able to explain prototypal chain from instance to its 'class' and 'class' parent
-        Be able to develop in OOP style using prototypal inheritance pattern
-        [instanceof] operator
-        Be able to use [instanceof] operator
-        Know how [instanceof] operator works
+23. Prototypal Inheritance Advanced        
+        - Temporary constructor
+        - Know prototypal inheritance mechanism
+        - Know prototypal inheritance temporary constructor pattern
+        - Be able to explain prototypal chain from instance to its 'class' and 'class' parent
+        - Be able to develop in OOP style using prototypal inheritance pattern
+        - [instanceof] operator
+        - Be able to use [instanceof] operator
+        - Know how [instanceof] operator works
 
-ECMAScript Classes Advanced        
-        [super] keyword
-        Understand [super] reference
-        Able to use [super] reference (in constructor, in class methods)
-        [static] keyword
-        Know static members concept
-        Be able to create [class] static properties and methods
+24. ECMAScript Classes Advanced        
+        - [super] keyword
+        - Understand [super] reference
+        - Able to use [super] reference (in constructor, in class methods)
+        - [static] keyword
+        - Know static members concept
+        - Be able to create [class] static properties and methods
 
-Regular Expressions Advanced        
-        Ranges
-        Grouping
-        Greedy and lazy search
-        Replacements
+25. Regular Expressions Advanced        
+        - Ranges
+        - Grouping
+        - Greedy and lazy search
+        - Replacements
         
         
-# JavaScript Development Tools
+26. JavaScript Development Tools
 
 Basic knowledge of the tools needed for setting up of development environment. At least knowledge of:
 - npm or yarn installation, working with cli
@@ -254,7 +254,7 @@ Working with packages, publishing, versioning
 - Intermediate knowledge of browser tools for project needs (Chrome DevTools)
 - Experience working with eslint, prettier.
 
-# Software Design
+27. Software Design
 - architectural patterns(Layered, Client-Server, MVC) 
 - design patterns 
 - design principles (KISS, DRY, YAGNI, Clean Code principles, SOLID, high cohesion & low coupling) 
@@ -267,100 +267,99 @@ Working with packages, publishing, versioning
 - Technical Documentation 
 - Cross-Cutting Concerns
 
-# performance optimizations:
+28. performance optimizations:
 
-JavaScript Profiling and Debugging
-Network Optimizations
-JavaScript Performance Optimization Techniques
-Memory Leaks (detection tools and prevention)
-JavaScript Obfuscation and Minification
-Framework optimization techniques
-Compression (types, approaches)
-Caching (native techniques, 3rd party services, CDN)
-Clusterization and application scaling
-Load balancing
-Reverse proxy solutions 
+- JavaScript Profiling and Debugging
+- Network Optimizations
+- JavaScript Performance Optimization Techniques
+- Memory Leaks (detection tools and prevention)
+- JavaScript Obfuscation and Minification
+- Framework optimization techniques
+- Compression (types, approaches)
+- Caching (native techniques, 3rd party services, CDN)
+- Clusterization and application scaling
+- Load balancing
+- Reverse proxy solutions 
 
-# Node.js Security
+29. Node.js Security
 
-Understand how to filter and validate user input data properly
-Know what is SQL Injections and understand how to prevent them
-Understand how to store secrets and hide confidential data from the public access
+- Understand how to filter and validate user input data properly
+- Know what is SQL Injections and understand how to prevent them
+- Understand how to store secrets and hide confidential data from the public access
 
-# Common web-security knowledge
+30. Common web-security knowledge
 
-At least basic knowledge of different security issues and possible protections
-XSS
-CORS
-SQL injections
-Auth (JWT, OAuth, Basic) 
+- At least basic knowledge of different security issues and possible protections
+- XSS
+- CORS
+- SQL injections
+- Auth (JWT, OAuth, Basic) 
 
-# Web Communication Protocols
+31. Web Communication Protocols
 
-HTTP vs HTTPS vs HTTP/2
-WS vs Polling
-RESTful API
-Nice to have:
+- HTTP vs HTTPS vs HTTP/2
+- WS vs Polling
+- RESTful API
+  Nice to have:
+- RPC (JSON RPC)
+- GraphQL
+- Socket
 
-RPC (JSON RPC)
-GraphQL
-Socket
+32. Software Engineering Processes
 
-# Software Engineering Processes
+- Knowledge of most popular Agile frameworks (Scrum, Kanban)roles/events, understanding of their pros and cons.
 
-Knowledge of most popular Agile frameworks (Scrum, Kanban)roles/events, understanding of their pros and cons.
+- Knowledge and ability to use different estimation techniques (by analogy, by experts, planning poker, decomposition, bucket, t-shirt, story points) and estimation notions (relative and absolute units), how to estimate unknown tasks.
 
-Knowledge and ability to use different estimation techniques (by analogy, by experts, planning poker, decomposition, bucket, t-shirt, story points) and estimation notions (relative and absolute units), how to estimate unknown tasks.
+- Understading purpose of DoR and DoD.
 
-Understading purpose of DoR and DoD.
+33. Node.js Service Development
 
-# Node.js Service Development
-
-Creating RESTful HTTP services (starter setup, framework, configuration, models, data access ...)
+- Creating RESTful HTTP services (starter setup, framework, configuration, models, data access ...)
 Intermediate knowledge of: 
 
-API documentation (swagger)
-Service deployment, containerization approaches (docker, docker-compose)
-Stateful vs stateless services (pros/cons)
-Diagnostics and tracing approaches for services (debugging, tracing, profiling, heap and memory analysis, step debugging)
-GraphQL vs REST (pros/cons)
-Authentication / authorization (JWT, Passport strategies, ...)
-Basic understanding of:
+- API documentation (swagger)
+- Service deployment, containerization approaches (docker, docker-compose)
+- Stateful vs stateless services (pros/cons)
+- Diagnostics and tracing approaches for services (debugging, tracing, profiling, heap and memory analysis, step debugging)
+- GraphQL vs REST (pros/cons)
+- Authentication / authorization (JWT, Passport strategies, ...)
+- Basic understanding of:
 
-Async services communication/Message Brokers (RabbitMQ, Kafka, SQS, SNS ...)
-Caching approaches and solutions
-Application (performance) scalability approaches and techniques
-Monolith vs SOA (pros/cons) 
+- Async services communication/Message Brokers (RabbitMQ, Kafka, SQS, SNS ...)
+- Caching approaches and solutions
+- Application (performance) scalability approaches and techniques
+- Monolith vs SOA (pros/cons) 
 
-# Software Engineering Knowledge & Experience
-basic Algos & Data Structures
-Network Concepts
-DB concepts 
-types of DB (SQL, NoSQL) 
-OS
-Cryptography
-Software Licenses
-Virtualization
+34. Software Engineering Knowledge & Experience
+- basic Algos & Data Structures
+- Network Concepts
+- DB concepts 
+- types of DB (SQL, NoSQL) 
+- OS
+- Cryptography
+- Software Licenses
+- Virtualization
 
-Node.js Database Experience
-CAP theorem
-Caching solutions (Reddis, Memcached, etc.) 
-SQL vs NoSQL databases (basic comparison, pros/cons of each)
+35. Node.js Database Experience
+- CAP theorem
+- Caching solutions (Reddis, Memcached, etc.) 
+- SQL vs NoSQL databases (basic comparison, pros/cons of each)
 
-# Docker
-# Cloud Fundamentals
+36. Docker
+37. Cloud Fundamentals
 
-# Node.js Infrastructure and Clouds
+38. Node.js Infrastructure and Clouds
 
-Node containerization
-Node deployment
-note architecture/patterns
-node API/gatway
-Node deployment
-Node serverles
-node vizualization/monitoring
-node search engines
-node real time application
-node queues
+- Node containerization
+- Node deployment
+- node architecture/patterns
+- node API/gatway
+- Node deployment
+- Node serverles
+- node vizualization/monitoring
+- node search engines
+- node real time application
+- node queues
 
-Transaction models (ACID vs BASE)
+39. Transaction models (ACID vs BASE)
