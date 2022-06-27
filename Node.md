@@ -129,104 +129,83 @@
 - CI/CD
 - SSH/Command line tools
 
--------------
+---
 
-Language (Javascript, Typescript, Flow, ...)
-At least Intermediate level:
+24. Basic operations: sort, map, filter, reduce
+25. Algorithms complexity basics (O(1), O(N), ...)
+26. Data structures: array, stack, queue, linked-list, tree, hash table (map), set
+27. Programming Paradigms (OOP, FP, FRP)
 
-JS Core (ES5, ES6, ES7 specifications)
-TypeScript or Flow (if used on a project)
-HTML, CSS
-Computer science fundamentals
-At least Intermediate level:
+28. OOP
 
-Basic operations: sort, map, filter, reduce
-Algorithms complexity basics (O(1), O(N), ...)
-Data structures: array, stack, queue, linked-list, tree, hash table (map), set
-Programming Paradigms (OOP, FP, FRP)
-At least Intermediate:
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+- Dependency injection
 
-Understanding of his/her project programming paradigm (OOP, FP, RP)
-OOP
-Encapsulation
-Abstraction
-Inheritance
-Polymorphism
-Dependency injection
-FP
-Pure functions
-Immutability
-Functions as first-class entities
-Functions composition
-High order functions
-Recursion
-Currying/Memoization
-Uses at least one of them on a project, able to explain its concepts
-Communication Protocols (HTTP, WS, REST, GraphQL, ...)
-Network fundamentals and OSI model
+29. FP
 
-HTTP
-HTTPS
-WS
-API architectural approaches
+- Pure functions
+- Immutability
+- Functions as first-class entities
+- Functions composition
+- High order functions
+- Recursion
+- Currying/Memoization
 
-Intermediate understanding of RESTful API
-Security (XSS, CSP, SQL injections, OWASP Top 10, CORS, CSRF, Auth)
-Basic understanding of most common security terms (CORS, XSS)
-Ability to tell possible protections
-Performance
-At least basic knowledge of:
 
-Project Framework Optimization Techniques
-Node Core
-At least basic knowledge of:
+30. Communication Protocols (HTTP, WS, REST, GraphQL, ...)
+- HTTP
+- HTTPS
+- WS
+- API architectural approaches
 
-Node.js CLI (environment variables, command parameters, etc.)
-Module system (require, JS modules, import weight)
-Node.js package managers (NPM, Yarn, package.json configuration, lock files)
-Node.js Event Loop (basic observation, main stages)
-Buffer and Streams
-Events
-Error handling (Error class, error logging, async error events)
-Node.js logging approaches
-Node.js async development (callbacks, promises, async)
-Working with file system (difference between OS, sync/async/stream use cases)
-Node.js unit / integration testing
-Service development (Monolith, SOA, Microservices)
-Intermediate knowledge of:
+31. Network fundamentals and OSI model
 
-Creating RESTful HTTP services (starter setup, framework, configuration, models, data access ...)
-Nice to have:
+32. Intermediate understanding of RESTful API
 
-API documentation (swagger)
-Databases
-Intermediate knowledge of:
+33. Security (XSS, CSP, SQL injections, OWASP Top 10, CORS, CSRF, Auth)
+- Basic understanding of most common security terms (CORS, XSS)
+ -Ability to tell possible protections
+- Performance
 
-Understanding of at least one of data access abstraction layers (driver/query, query builder, ORM/ODM)
-At least basic knowledge of:
 
-one database and why they are used (Postgre, SQL, Redis, Dynamo, ...
-Nice to have:
+34. Project Framework Optimization Techniques
+- Node Core
+- Node.js CLI (environment variables, command parameters, etc.)
+- Module system (require, JS modules, import weight)
+- Node.js package managers (NPM, Yarn, package.json configuration, lock files)
+- Node.js Event Loop (basic observation, main stages)
+- Buffer and Streams
+- Events
+- Error handling (Error class, error logging, async error events)
+- Node.js logging approaches
+- Node.js async development (callbacks, promises, async)
+- Working with file system (difference between OS, sync/async/stream use cases)
+- Node.js unit / integration testing
 
-Able to tell the difference between SQL vs NoSQL (only if there is experience with both)
+35. Service development (Monolith, SOA, Microservices)
+
+- Creating RESTful HTTP services (starter setup, framework, configuration, models, data access ...)
+- API documentation (swagger)
+- Databases
+- Understanding of at least one of data access abstraction layers (driver/query, query builder, ORM/ODM)
+- one database and why they are used (Postgre, SQL, Redis, Dynamo, ...
+- Able to tell the difference between SQL vs NoSQL (only if there is experience with both)
 Clouds
-At least basic knowledge of:
 
-Project infrastructure (ability to describe one used on the project)
-How code runs in serverless services
-Any of cloud services (DynamoDB, Firebase, SQS, etc.)
-Nice to have:
+36. Project infrastructure (ability to describe one used on the project)
+- How code runs in serverless services
+- Any of cloud services (DynamoDB, Firebase, SQS, etc.)
+- Any experience working with clouds (AWS, Azure, GCP) and serverless services
+- Running Node apps on a VPS/DS (pm2, docker, proxies, etc.)
 
-Any experience working with clouds (AWS, Azure, GCP) and serverless services
-Running Node apps on a VPS/DS (pm2, docker, proxies, etc.)
-Frameworks and Tools
-Intermediate level of knowledge of Project framework:
+37. Frameworks and Tools
+- Express, Nest, Next, Koa, Fastify, etc...
 
-Express, Nest, Next, Koa, Fastify, etc...
-T-Shape Skills
-Will be a plus:
-
-Automated testing (E2E)
-DevOps
-Mobile
-Front-End
+38. T-Shape Skills
+- Automated testing (E2E)
+- DevOps
+- Mobile
+- Front-End
