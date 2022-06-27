@@ -250,95 +250,71 @@ Basic knowledge of the tools needed for setting up of development environment. A
 - working with repository and Git basics.
 - Basic knowledge of eslint
 
-Working with packages, publishing, versioning
+
+28. Working with packages, publishing, versioning
+
 - Intermediate knowledge of browser tools for project needs (Chrome DevTools)
 - Experience working with eslint, prettier.
 
-27. Software Design
-- architectural patterns(Layered, Client-Server, MVC) 
-- design patterns 
-- design principles (KISS, DRY, YAGNI, Clean Code principles, SOLID, high cohesion & low coupling) 
-- Knowledge of main programming paradigms (OOP, FP,RP)
+29. Software Design
+
+- architectural patterns(Layered, Client-Server, MVC)
 - Knowledge of cross-cutting concerns (logging, Error Handling, Secure coding)
-
-- Design Principles, 
-- design patterns 
+- Design Principles,
+- design patterns
 - Programming Paradigms,
-- Technical Documentation 
-- Cross-Cutting Concerns
+- Technical Documentation
 
-28. performance optimizations:
+30. Node.js performance optimizations
 
+- Project Framework Optimization Techniques 
 - JavaScript Profiling and Debugging
 - Network Optimizations
-- JavaScript Performance Optimization Techniques
-- Memory Leaks (detection tools and prevention)
-- JavaScript Obfuscation and Minification
+- JavaScript Performance Optimization Techniques 
+- Memory Leaks (detection tools and prevention) 
+- JavaScript Obfuscation and Minification 
 - Framework optimization techniques
-- Compression (types, approaches)
+- Compression (types, approaches) 
 - Caching (native techniques, 3rd party services, CDN)
-- Clusterization and application scaling
-- Load balancing
-- Reverse proxy solutions 
+- Clusterization and application scaling 
+- Load balancing 
+- Reverse proxy solutions
 
-29. Node.js Security
+31. Node.js Security
 
 - Understand how to filter and validate user input data properly
 - Know what is SQL Injections and understand how to prevent them
 - Understand how to store secrets and hide confidential data from the public access
 
-30. Common web-security knowledge
+32. Common web-security knowledge
 
-- At least basic knowledge of different security issues and possible protections
-- XSS
-- CORS
-- SQL injections
-- Auth (JWT, OAuth, Basic) 
+- At least basic knowledge of different security issues and possible protections XSS CORS SQL injections Auth (JWT, OAuth, Basic)
+- Web Communication Protocols
+- HTTP vs HTTPS vs HTTP/2 WS vs Polling RESTful API Nice to have:
+RPC (JSON RPC) GraphQL Socket
 
-31. Web Communication Protocols
-
-- HTTP vs HTTPS vs HTTP/2
-- WS vs Polling
-- RESTful API
-  Nice to have:
-- RPC (JSON RPC)
-- GraphQL
-- Socket
-
-32. Software Engineering Processes
-
-- Knowledge of most popular Agile frameworks (Scrum, Kanban)roles/events, understanding of their pros and cons.
-
-- Knowledge and ability to use different estimation techniques (by analogy, by experts, planning poker, decomposition, bucket, t-shirt, story points) and estimation notions (relative and absolute units), how to estimate unknown tasks.
-
-- Understading purpose of DoR and DoD.
-
-33. Node.js Service Development
+33. Software Engineering Processes
+34. Node.js Service Development
 
 - Creating RESTful HTTP services (starter setup, framework, configuration, models, data access ...)
-Intermediate knowledge of: 
-
 - API documentation (swagger)
 - Service deployment, containerization approaches (docker, docker-compose)
-- Stateful vs stateless services (pros/cons)
-- Diagnostics and tracing approaches for services (debugging, tracing, profiling, heap and memory analysis, step debugging)
+- Stateful vs stateless services (pros/cons) 
+- Diagnostics and tracing approaches for services (debugging, tracing, profiling, heap and memory analysis, step debugging) 
 - GraphQL vs REST (pros/cons)
-- Authentication / authorization (JWT, Passport strategies, ...)
-- Basic understanding of:
-
+- Authentication / authorization (JWT, Passport strategies, ...) 
+Basic understanding of:
 - Async services communication/Message Brokers (RabbitMQ, Kafka, SQS, SNS ...)
-- Caching approaches and solutions
-- Application (performance) scalability approaches and techniques
-- Monolith vs SOA (pros/cons) 
+- Caching approaches and solutions Application (performance) scalability approaches and techniques 
+- Monolith vs SOA (pros/cons)
 
-34. Software Engineering Knowledge & Experience
+35. Software Engineering Knowledge & Experience
 - basic Algos & Data Structures
 - Network Concepts
 - DB concepts 
 - types of DB (SQL, NoSQL) 
-- OS
 - Cryptography
-- Software Licenses
+- Software Licenses 
 - Virtualization
 
 35. Node.js Database Experience
