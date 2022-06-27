@@ -80,7 +80,6 @@
 
 10. Functional Patterns
 
-
     - Immediate function
     - Know immediate function pattern
     - Be able to explain the purposes of immediate function usage
@@ -182,33 +181,37 @@
     - Custom errors
 
 19. ECMAScript Advanced
+
     - Promises
     - Know how [Promise] works
     - Know promise chain pattern
 
-- Be able to compare promise and callback patterns
-  - Be able to handle errors in promises
-  - Be able to use promisification pattern
-  - Iterators
-  - Know [Iterator] interface
-  - Be able to create custom iterator
-  - Generators
-  - Know generator syntax
-  - Be able to compare generator and iterator
-  - Understand how [yield] works
-  - Understand plain async code
+20. Be able to compare promise and callback patterns
 
+- Be able to handle errors in promises
+- Be able to use promisification pattern
+- Iterators
+- Know [Iterator] interface
+- Be able to create custom iterator
+- Generators
+- Know generator syntax
+- Be able to compare generator and iterator
+- Understand how [yield] works
+- Understand plain async code
 
-20. Object Property Descriptor        
+20. Object Property Descriptor
+
 - Know how to use property descriptors
 - Be able to explain enumerable, configurable, writable property attributes
 - Be able to create property getter/setter
 
-21. Functions Recursion        
+21. Functions Recursion
+
 - Know recursion concept and able to use it
 - Able to explain recursion risks, benefits and drawbacks
 
-22. Advanced Functional Patterns        
+22. Advanced Functional Patterns
+
 - Chaining
 - Know chaining pattern and cases where it will be useful
 - Currying
@@ -217,7 +220,8 @@
 - Know memorization optimization
 - Understand problem with non-primitive arguments memorization
 
-23. Prototypal Inheritance Advanced        
+23. Prototypal Inheritance Advanced
+
 - Temporary constructor
 - Know prototypal inheritance mechanism
 - Know prototypal inheritance temporary constructor pattern
@@ -227,7 +231,8 @@
 - Be able to use [instanceof] operator
 - Know how [instanceof] operator works
 
-24. ECMAScript Classes Advanced        
+24. ECMAScript Classes Advanced
+
 - [super] keyword
 - Understand [super] reference
 - Able to use [super] reference (in constructor, in class methods)
@@ -235,21 +240,21 @@
 - Know static members concept
 - Be able to create [class] static properties and methods
 
-25. Regular Expressions Advanced        
+25. Regular Expressions Advanced
+
 - Ranges
 - Grouping
 - Greedy and lazy search
 - Replacements
-        
-        
+
 26. JavaScript Development Tools
 
 Basic knowledge of the tools needed for setting up of development environment. At least knowledge of:
+
 - npm or yarn installation, working with cli
 - knowledge of package.json and dependencies
 - working with repository and Git basics.
 - Basic knowledge of eslint
-
 
 28. Working with packages, publishing, versioning
 
@@ -267,17 +272,17 @@ Basic knowledge of the tools needed for setting up of development environment. A
 
 30. Node.js performance optimizations
 
-- Project Framework Optimization Techniques 
+- Project Framework Optimization Techniques
 - JavaScript Profiling and Debugging
 - Network Optimizations
-- JavaScript Performance Optimization Techniques 
-- Memory Leaks (detection tools and prevention) 
-- JavaScript Obfuscation and Minification 
+- JavaScript Performance Optimization Techniques
+- Memory Leaks (detection tools and prevention)
+- JavaScript Obfuscation and Minification
 - Framework optimization techniques
-- Compression (types, approaches) 
+- Compression (types, approaches)
 - Caching (native techniques, 3rd party services, CDN)
-- Clusterization and application scaling 
-- Load balancing 
+- Clusterization and application scaling
+- Load balancing
 - Reverse proxy solutions
 
 31. Node.js Security
@@ -291,7 +296,7 @@ Basic knowledge of the tools needed for setting up of development environment. A
 - At least basic knowledge of different security issues and possible protections XSS CORS SQL injections Auth (JWT, OAuth, Basic)
 - Web Communication Protocols
 - HTTP vs HTTPS vs HTTP/2 WS vs Polling RESTful API Nice to have:
-RPC (JSON RPC) GraphQL Socket
+  RPC (JSON RPC) GraphQL Socket
 
 33. Software Engineering Processes
 34. Node.js Service Development
@@ -299,27 +304,29 @@ RPC (JSON RPC) GraphQL Socket
 - Creating RESTful HTTP services (starter setup, framework, configuration, models, data access ...)
 - API documentation (swagger)
 - Service deployment, containerization approaches (docker, docker-compose)
-- Stateful vs stateless services (pros/cons) 
-- Diagnostics and tracing approaches for services (debugging, tracing, profiling, heap and memory analysis, step debugging) 
+- Stateful vs stateless services (pros/cons)
+- Diagnostics and tracing approaches for services (debugging, tracing, profiling, heap and memory analysis, step debugging)
 - GraphQL vs REST (pros/cons)
-- Authentication / authorization (JWT, Passport strategies, ...) 
-Basic understanding of:
+- Authentication / authorization (JWT, Passport strategies, ...)
+  Basic understanding of:
 - Async services communication/Message Brokers (RabbitMQ, Kafka, SQS, SNS ...)
-- Caching approaches and solutions Application (performance) scalability approaches and techniques 
+- Caching approaches and solutions Application (performance) scalability approaches and techniques
 - Monolith vs SOA (pros/cons)
 
 35. Software Engineering Knowledge & Experience
+
 - basic Algos & Data Structures
 - Network Concepts
-- DB concepts 
-- types of DB (SQL, NoSQL) 
+- DB concepts
+- types of DB (SQL, NoSQL)
 - Cryptography
-- Software Licenses 
+- Software Licenses
 - Virtualization
 
 35. Node.js Database Experience
+
 - CAP theorem
-- Caching solutions (Reddis, Memcached, etc.) 
+- Caching solutions (Reddis, Memcached, etc.)
 - SQL vs NoSQL databases (basic comparison, pros/cons of each)
 
 36. Docker
