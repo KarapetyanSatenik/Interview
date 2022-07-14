@@ -193,7 +193,7 @@
 - Understanding of at least one of data access abstraction layers (driver/query, query builder, ORM/ODM)
 - one database and why they are used (Postgre, SQL, Redis, Dynamo, ...
 - Able to tell the difference between SQL vs NoSQL (only if there is experience with both)
-Clouds
+- Clouds
 
 36. Project infrastructure (ability to describe one used on the project)
 - How code runs in serverless services
@@ -209,3 +209,16 @@ Clouds
 - DevOps
 - Mobile
 - Front-End
+
+39. Page load optimization techniques
+40. Repaint/Reflow Understanding
+41. Browser API (Console, Fetch, Storage, History)
+42. BOM, DOM
+43. Tools (NPM, Webpack, Chrome DevTools, ...)
+44. webpack / rollup / gulp
+45. Intermediate knowledge of package managers (NPM, Yarn, package.json configuration, lock files)
+46. Intermediate knowledge of browser tools for project needs (Chrome DevTools)
+47. Module system (require, JS modules, import)
+48. SPA vs MPA
+49. Frameworks and Tools
+
