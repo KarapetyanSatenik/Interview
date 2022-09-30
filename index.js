@@ -1,17 +1,13 @@
-class Chameleon {
- colorChange(newColor) {
-      this.newColor = newColor;
-      return this.newColor;
-    }
-  
-    constructor({ newColor = 'green' } = {}) {
-        console.log(newColor);
-      this.newColor = newColor;
-    }
-  }
-  
-  const freddie = new Chameleon({ newColor: 'purple' });
-  console.log(freddie.colorChange('orange'));
+
+const numbers = [1,2,3,4]
+console.log(Number(numbers))
+console.log(String(numbers));
+
+const person = {
+    name:"Marsel"
+}
+console.log(Number(person));
+console.log(String(person));
 
 
 
@@ -20,5 +16,20 @@ class Chameleon {
 
 
 
+
+
+// const person = {
+//   name: "Marsel",
+// };
+
+// function getName() {
+//   const returnValue = () => {
+//     return this.name;
+//   };
+
+//   return returnValue();
+// }
+
+// console.log(getName.call(person));
 
 

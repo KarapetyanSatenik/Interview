@@ -7,7 +7,7 @@ Let's start from the first question.
 
 1. how many data types do you know in JavaScript?
 
-2. What's the difference between reference and primitive types?
+2. What's the difference between reference and primitive data types?
 
 3. How can you declare variables in js and what's the difference?
 
@@ -15,13 +15,28 @@ Let's start from the first question.
 
 5. Are let and const hoisted? What do you know or have you ever heard about temporary dead zone?
 
-6. How many ways do you know to copy object or to create an object?
+6. How many ways do you know to copy object? Bring examples where you can do deep copy.
+
+7. what is scope in JS? And tell me please about lexical environment?
 
 7. What happens under the hood of javascript when we treat reference types as a primitive types, for example pass array toString method()?
 
-8. In JavaScript what is an argument object? How can you convert it to an array?
+```javascript
+const numbers = [1,2,3,4]
+console.log(Number(numbers))
+console.log(String(numbers));
 
-9. The difference between forEach and map methods?
+const person = {
+    name:"Marsel"
+}
+console.log(Number(person));
+console.log(String(person));
+
+```
+
+8. In JavaScript what is an arguments object inside of function? How can you convert it to an array?
+
+9. Have you ever used map and foreach? what's the difference between forEach and map methods?
 
 10. For what we use object descriptors? And besides descriptors do you know other Object static methods which do the same thing?
 
@@ -30,7 +45,7 @@ Let's start from the first question.
 
 12. How we can define function in JS? What difference between function declaration and arrow function?
 
-13. Can we use apply, bind, call for arrow function? and what's the difference between call, apply, bind?
+13. WHat's the difference between call, apply, bind methods?
 
 14. Can be used Arrow function as a constructor function? 
 
@@ -38,9 +53,21 @@ Let's start from the first question.
 
 16. What new features did ES6 introduce?
 
-17. Whats the difference between Array.isArray and rest operator? Can you use rest with arguments?
-
 18. What is this? What kind of way do you know to change the context of this?
+
+```js
+const person = {
+  name: "Marsel",
+};
+function getName() {
+  const returnValue = () => {
+    return this.name;
+  };
+
+  return returnValue();
+}
+console.log(getName.call(person));
+```
 
 19. Imagine you have called bind for some function, can you call bind again that function?
 
