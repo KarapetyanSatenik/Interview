@@ -1,0 +1,294 @@
+{
+    "isReplay": "false",
+    "events": [
+        {
+            "publisherId": "d90972a3-65a5-447d-ae7b-084b8df9786d",
+            "clientEventId": "RAM04825032",
+            "eventTypeCode": "OlympicsSession",
+            "eventBody": {
+                "briefAvailable": "true",
+                "presentationAvailable": "true",
+                "transcriptAvailable": "false",
+                "guidanceAvailable": "false",
+                "mediaAvailable": "false",
+                "sessionCode": "RAM04825032",
+                "sportType": "Taekwondo",
+                "SessionName": "Session 1",
+                "Medal": "Y",
+                "SessionType": "AFT",
+                "startDateTime": "2022-10-09T06:30:00",
+                "endDateTime": "2022-10-20T22:05:00",
+                "competition": {
+                    "code": "OWG2022",
+                    "documentCode": "JOE-------------------------------"
+                }
+            },
+            "eventLocation": {
+                "Venue": "BAS",
+                "VenueName": "Blundstone Arena"
+            },
+            "eventSlug": "RAM-2022-WeightliftingR083422d92/",
+            "startDate": "2022-10-09T06:30:00Z",
+            "endDate": "2022-10-20T22:05:00Z"
+        },
+        {
+            "publisherId": "d90972a3-65a5-447d-ae7b-084b8df9786d",
+            "clientEventId": "JOEW12003560126M-------------FNL-000100--",
+            "eventTypeCode": "OlympicsUnit",
+            "eventStatus": {
+                "name": "SCHEDULED"
+            },
+            "eventBody": {
+                "briefAvailable": "true",
+                "presentationAvailable": "true",
+                "transcriptAvailable": "false",
+                "guidanceAvailable": "false",
+                "mediaAvailable": "false",
+                "code": "JOEW12003560126M-------------FNL-000100--",
+                "sportType": "Taekwondo",
+                "gender": "Men",
+                "phaseType": "Competition",
+                "eventName": "Karate RAM R121330Rs212358-Men's 120M Semi final",
+                "eventStage": "Semifinal",
+                "medal": "0",
+                "itemName": "Men's RK451201M RAMYA322119",
+                "sessionCode": "RAM04825032",
+                "startDateTime": "2022-10-09T08:30:00",
+                "endDateTime": "2022-10-09T09:00:00",
+                "competition": {
+                    "code": "OWG2022",
+                    "documentCode": "JOE-------------------------------"
+                }
+            },
+            "eventLocation": {
+                "VenueName": "Ryde Aquatic Leisure Centre",
+                "LocationName": "Ryde Aquatic Leisure Centre"
+            },
+            "eventSlug": "RAM-2022-RKarate8125962/MEN-1M-COMPE1",
+            "startDate": "2022-10-09T08:30:00Z",
+            "endDate": "2022-10-09T09:00:00Z"
+        },
+        {
+            "publisherId": "d90972a3-65a5-447d-ae7b-084b8df9786d",
+            "clientEventId": "JOEW213015344171M-------------FNL-000100--",
+            "eventTypeCode": "OlympicsUnit",
+            "eventStatus": {
+                "name": "SCHEDULED"
+            },
+            "eventBody": {
+                "briefAvailable": "true",
+                "presentationAvailable": "true",
+                "transcriptAvailable": "false",
+                "guidanceAvailable": "false",
+                "mediaAvailable": "false",
+                "code": "JOEW213015344171M-------------FNL-000100--",
+                "sportType": "Taekwondo",
+                "gender": "Men",
+                "phaseType": "Competition",
+                "eventName": "Karate RAM R34130R2314348-Men's 120M Semi final",
+                "eventStage": "Semifinal",
+                "medal": "0",
+                "itemName": "Men's R34K43501M RAMYA3053419",
+                "sessionCode": "RAM04825032",
+                "startDateTime": "2022-10-09T11:30:00",
+                "endDateTime": "2022-10-09T12:00:00",
+                "competition": {
+                    "code": "OWG2022",
+                    "documentCode": "JOE-------------------------------"
+                }
+            },
+            "eventLocation": {
+                "VenueName": "Ryde Aquatic Leisure Centre",
+                "LocationName": "Ryde Aquatic Leisure Centre"
+            },
+            "eventSlug": "RAM-2122-KarateR2332534d68/MEN-1M-COMPE1",
+            "startDate": "2022-10-09T11:30:00Z",
+            "endDate": "2022-10-09T12:00:00Z"
+        },
+        {
+            "publisherId": "d90972a3-65a5-447d-ae7b-084b8df9786d",
+            "clientEventId": "JOEW303452345056452M-------------FNL-000100--",
+            "eventTypeCode": "OlympicsUnit",
+            "eventStatus": {
+                "name": "SCHEDULED"
+            },
+            "eventBody": {
+                "briefAvailable": "true",
+                "presentationAvailable": "true",
+                "transcriptAvailable": "false",
+                "guidanceAvailable": "false",
+                "mediaAvailable": "false",
+                "code": "JOEW303452345056452M-------------FNL-000100--",
+                "sportType": "Taekwondo",
+                "gender": "Men",
+                "phaseType": "Competition",
+                "eventName": "Karate RAM R130R23sd4338248-Men's 120M Semi final",
+                "eventStage": "Semifinal",
+                "medal": "0",
+                "itemName": "Men's RK45432sd091M RAMYA3019",
+                "sessionCode": "RAM04825032",
+                "startDateTime": "2022-10-11T11:30:00",
+                "endDateTime": "2022-10-11T12:00:00",
+                "competition": {
+                    "code": "OWG2022",
+                    "documentCode": "JOE-------------------------------"
+                }
+            },
+            "eventLocation": {
+                "VenueName": "Ryde Aquatic Leisure Centre",
+                "LocationName": "Ryde Aquatic Leisure Centre"
+            },
+            "eventSlug": "RAM-2122-1KarateR91352346s29/MEN-1M-COMPE1",
+            "startDate": "2022-10-11T11:30:00Z",
+            "endDate": "2022-10-11T12:00:00Z"
+        },
+        {
+            "publisherId": "d90972a3-65a5-447d-ae7b-084b8df9786d",
+            "clientEventId": "JOEW30wer312452504M-------------FNL-000100--",
+            "eventTypeCode": "OlympicsUnit",
+            "eventStatus": {
+                "name": "SCHEDULED"
+            },
+            "eventBody": {
+                "briefAvailable": "true",
+                "presentationAvailable": "true",
+                "transcriptAvailable": "false",
+                "guidanceAvailable": "false",
+                "mediaAvailable": "false",
+                "code": "JOEW3wer03124525044M-------------FNL-000100--",
+                "sportType": "Taekwondo",
+                "gender": "Men",
+                "phaseType": "Competition",
+                "eventName": "Karate RAM R1314werw20wR8248-Men's 120M Semi final",
+                "eventStage": "Semifinal",
+                "medal": "0",
+                "itemName": "Men's RK45s0121M RAMYsdf4esA3019",
+                "sessionCode": "RAM04825032",
+                "startDateTime": "2022-10-12T12:30:00",
+                "endDateTime": "2022-10-12T16:00:00",
+                "competition": {
+                    "code": "OWG2022",
+                    "documentCode": "JOE-------------------------------"
+                }
+            },
+            "eventLocation": {
+                "VenueName": "Ryde Aquatic Leisure Centre",
+                "LocationName": "Ryde Aquatic Leisure Centre"
+            },
+            "eventSlug": "RAM-2122-KarateR9235sdf6s229/MEN-1M-COMPE1",
+            "startDate": "2022-10-03T12:30:00Z",
+            "endDate": "2022-10-03T12:00:00Z"
+        },
+        {
+            "publisherId": "d90972a3-65a5-447d-ae7b-084b8df9786d",
+            "clientEventId": "JOEW302343410205485M-------------FNL-000100--",
+            "eventTypeCode": "OlympicsUnit",
+            "eventStatus": {
+                "name": "SCHEDULED"
+            },
+            "eventBody": {
+                "briefAvailable": "true",
+                "presentationAvailable": "true",
+                "transcriptAvailable": "false",
+                "guidanceAvailable": "false",
+                "mediaAvailable": "false",
+                "code": "JOEW302343410205485M-------------FNL-000100--",
+                "sportType": "Taekwondo",
+                "gender": "Men",
+                "phaseType": "Competition",
+                "eventName": "Karate RAM R130R830942d408-Men's 120M Semi final",
+                "eventStage": "Semifinal",
+                "medal": "0",
+                "itemName": "Men's RK45034209491M RAMYA3s019",
+                "sessionCode": "RAM04825032",
+                "startDateTime": "2022-10-09T11:30:00",
+                "endDateTime": "2022-10-09T17:00:00",
+                "competition": {
+                    "code": "OWG2022",
+                    "documentCode": "JOE-------------------------------"
+                }
+            },
+            "eventLocation": {
+                "VenueName": "Ryde Aquatic Leisure Centre",
+                "LocationName": "Ryde Aquatic Leisure Centre"
+            },
+            "eventSlug": "RAM-2122-KarateR91309456ss29/MEN-1M-COMPE1",
+            "startDate": "2022-10-09T11:30:00Z",
+            "endDate": "2022-10-09T17:00:00Z"
+        },
+        {
+            "publisherId": "d90972a3-65a5-447d-ae7b-084b8df9786d",
+            "clientEventId": "JOEW3123434520986M-------------FNL-000100--",
+            "eventTypeCode": "OlympicsUnit",
+            "eventStatus": {
+                "name": "SCHEDULED"
+            },
+            "eventBody": {
+                "briefAvailable": "true",
+                "presentationAvailable": "true",
+                "transcriptAvailable": "false",
+                "guidanceAvailable": "false",
+                "mediaAvailable": "false",
+                "code": "JOEW3123434520986M-------------FNL-000100--",
+                "sportType": "Taekwondo",
+                "gender": "Men",
+                "phaseType": "Competition",
+                "eventName": "Karate RAM R1dsf30R8985348-Men's 120M Semi final",
+                "eventStage": "Semifinal",
+                "medal": "0",
+                "itemName": "Men's RK450sdf9981M RAMYA336019",
+                "sessionCode": "RAM04825032",
+                "startDateTime": "2022-10-12T08:30:00",
+                "endDateTime": "2022-10-12T13:00:00",
+                "competition": {
+                    "code": "OWG2022",
+                    "documentCode": "JOE-------------------------------"
+                }
+            },
+            "eventLocation": {
+                "VenueName": "Ryde Aquatic Leisure Centre",
+                "LocationName": "Ryde Aquatic Leisure Centre"
+            },
+            "eventSlug": "RAM-2122-KarateR913398434356s29/MEN-1M-COMPE1",
+            "startDate": "2022-10-12T08:30:00Z",
+            "endDate": "2022-10-12T13:00:00Z"
+        },
+        {
+            "publisherId": "d90972a3-65a5-447d-ae7b-084b8df9786d",
+            "clientEventId": "JOEW304345529807M-------------FNL-000100--",
+            "eventTypeCode": "OlympicsUnit",
+            "eventStatus": {
+                "name": "SCHEDULED"
+            },
+            "eventBody": {
+                "briefAvailable": "true",
+                "presentationAvailable": "true",
+                "transcriptAvailable": "false",
+                "guidanceAvailable": "false",
+                "mediaAvailable": "false",
+                "code": "JOEW304345520987M-------------FNL-000100--",
+                "sportType": "Taekwondo",
+                "gender": "Men",
+                "phaseType": "Competition",
+                "eventName": "Karate RAM R13098R8sdf278-Men's 120M Semi final",
+                "eventStage": "Semifinal",
+                "medal": "0",
+                "itemName": "Men's RK4598097sdf341M RAMYA3019",
+                "sessionCode": "RAM04825032",
+                "startDateTime": "2022-10-10T11:30:00",
+                "endDateTime": "2022-10-10T12:00:00",
+                "competition": {
+                    "code": "OWG2022",
+                    "documentCode": "JOE-------------------------------"
+                }
+            },
+            "eventLocation": {
+                "VenueName": "Ryde Aquatic Leisure Centre",
+                "LocationName": "Ryde Aquatic Leisure Centre"
+            },
+            "eventSlug": "RAM-2122-KarateR9198562s29/MEN-1M-COMPE1",
+            "startDate": "2022-10-10T11:30:00Z",
+            "endDate": "2022-10-10T12:00:00Z"
+        }
+    ]
+}

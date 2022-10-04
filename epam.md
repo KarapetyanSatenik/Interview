@@ -2,8 +2,13 @@
 Let's start from the first question.
 
 0. Can you tell us a bit yourself?
-0. Do you know other programming languages? Why exactly JS? 
+
+0. It's interesting for me. Do you know other programming languages? Why exactly you have chosen JS? 
 0. Do you know node.js? Would you like to learn and go deeper into node.js?
+
+Let me introduce myself. I am Satenik, and work at Epam Armenia as a Software Engineer.
+I will ask questions about JS?
+
 
 1. how many data types do you know in JavaScript?
 
@@ -23,8 +28,8 @@ Let's start from the first question.
 
 ```javascript
 const numbers = [1,2,3,4]
-console.log(Number(numbers))
-console.log(String(numbers));
+console.log(Number(numbers)) 1,2,3,4
+console.log(String(numbers));"1", "2", 
 
 const person = {
     name:"Marsel"
@@ -33,6 +38,7 @@ console.log(Number(person));
 console.log(String(person));
 
 ```
+What is NAN when wi wll recieve NaN
 
 8. In JavaScript what is an arguments object inside of function? How can you convert it to an array?
 
@@ -89,7 +95,7 @@ console.log(getName.call(person));
 
 29. What is the advantage of using promises over callbacks?
 
-30. Can you explain what async/await means in the context of JavaScript?
+30. Can you explain what async/await means in the context of JavaScript? And what return async function how you can handle it?
 
 31. Can you explain how in JavaScript event loop works?
 
@@ -98,6 +104,7 @@ function bark() {
   console.log('Woof!');
 }
 bark.animal = 'dog';
+console.log(bark.animal)
 ```
 
 ```js
