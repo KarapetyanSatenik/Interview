@@ -1,15 +1,3 @@
-
-Let's start from the first question.
-
-0. Can you tell us a bit yourself?
-
-0. It's interesting for me. Do you know other programming languages? Why exactly you have chosen JS? 
-0. Do you know node.js? Would you like to learn and go deeper into node.js?
-
-Let me introduce myself. I am Satenik, and work at Epam Armenia as a Software Engineer.
-I will ask questions about JS?
-
-
 1. how many data types do you know in JavaScript?
 
 2. What's the difference between reference and primitive data types?
