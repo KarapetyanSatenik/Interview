@@ -109,10 +109,9 @@ Person.getFullName = function() {
 console.log(member.getFullName());
 ```
 
+31. What is memory leak in JS? and how we can avoid it?
 
-
-
-
+32. What is stack overFlow in JS and how we can avoid it?
 
 
 
