@@ -42,3 +42,16 @@ class Chameleon {
   const freddie = new Chameleon({ newColor: 'purple' });
   console.log(freddie.colorChange('orange'));
 ```
+
+5. What is ParameterScope and what will be the output?
+
+```js
+function parameterScope(a, cb = ()=>a){
+  var a = 12
+  return cb()
+}
+
+let a = 45
+
+console.log(parameterScope(12))
+```
