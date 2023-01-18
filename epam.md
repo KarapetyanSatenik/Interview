@@ -26,7 +26,7 @@ console.log(Number(person));
 console.log(String(person));
 
 ```
-What is NAN when wi wll recieve NaN
+What is NAN when wi wll receive NaN
 
 8. In JavaScript what is an arguments object inside of function? How can you convert it to an array?
 
