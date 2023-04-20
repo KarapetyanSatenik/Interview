@@ -1,12 +1,9 @@
 1. how many data types do you know in JavaScript?
-
 2. What's the difference between reference and primitive data types?
-
 3. How can you declare variables in js and what's the difference?
-
 4. What is hoisting in JS? 
-
 5. Are let and const hoisted? What do you know or have you ever heard about temporary dead zone?
+
 
 6. What is scope in JS? How many scopes do you know? And tell me please about lexical environment? Are functions block scope or not?
 
@@ -86,26 +83,76 @@ console.log(getName.call(person));
 
 31. Can you explain how in JavaScript event loop works?
 
+
 ```js
-function bark() {
-  console.log('Woof!');
-}
-bark.animal = 'dog';
-console.log(bark.animal)
+let obj = {
+    name: "Abhi",
+    age: 28,
+    info: function() {
+        console.log(`${this.name}  is  ${this.age} year's old`);
+    },
+};
+let obj1 = {
+    name: "Vikash",
+    age: 28,
+};
+
+obj.info.bind(obj1)();
 ```
 
 ```js
-function Person(firstName, lastName) {
-  this.firstName = firstName;
-  this.lastName = lastName;
-}
+const obj = { 1: 'a', 2: 'b', 3: 'c' };
+const set = new Set([1, 2, 3, 4, 5]);
 
-const member = new Person('Lydia', 'Hallie');
-Person.getFullName = function() {
-  return `${this.firstName} ${this.lastName}`;
+obj.hasOwnProperty('1');
+obj.hasOwnProperty(1);
+set.has('1');
+set.has(1);
+///
+
+
+const foo = function () {
+  this.x = 5;
+  (function () {
+      this.x = 3;
+  })();
+  console.log(this.x);
 };
 
-console.log(member.getFullName());
+const obj = {
+  x: 4,
+  logger: function () {
+This = {}
+      console.log(this.x);
+  }
+};
+
+foo(); 
+new foo(); 
+obj.logger(); 
+new obj.logger();
+
+
+
+//
+
+class Service {
+  constructor() {
+    this.numbers = [1, 2, 3];
+    this.token = "token";
+  }
+
+  doSomething() {
+    setTimeout(() => {
+      this.numbers.forEach(function log(number) {
+        console.log(number);
+      });
+    }, 100);
+  }
+}
+
+let service = new Service();
+service.doSomething();
 ```
 
 32. What is memory leak in JS? and how we can avoid it?
