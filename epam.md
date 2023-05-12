@@ -1,9 +1,12 @@
 1. how many data types do you know in JavaScript?
-2. What's the difference between reference and primitive data types?
-3. How can you declare variables in js and what's the difference?
-4. What is hoisting in JS? 
-5. Are let and const hoisted? What do you know or have you ever heard about temporary dead zone?
 
+2. What's the difference between reference and primitive data types?
+
+3. How can you declare variables in js and what's the difference?
+
+4. What is hoisting in JS? 
+
+5. Are let and const hoisted? What do you know or have you ever heard about temporary dead zone?
 
 6. What is scope in JS? How many scopes do you know? And tell me please about lexical environment? Are functions block scope or not?
 
@@ -82,7 +85,6 @@ console.log(getName.call(person));
 30. Can you explain what async/await means in the context of JavaScript? And what return async function how you can handle it?
 
 31. Can you explain how in JavaScript event loop works?
-
 
 ```js
 let obj = {
