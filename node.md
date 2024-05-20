@@ -38,3 +38,18 @@ Synchronous, blocking functions
 
 17. What kind of databases do you know? And what's the difference between them?
 
+
+```js
+Promise.resolve(console.log(2)).then(() => {
+  console.log(1);
+});
+
+setTimeout(() => {
+  console.log(3);
+});
+console.log(4);
+
+process.nextTick(() => {
+  console.log(5);
+});
+```
